@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Your input string" | tr -d 'cC'
+tr -d 'cC' < input.txt > output.txt
