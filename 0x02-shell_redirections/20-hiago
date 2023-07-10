@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Your input string" | tr -d 'cC'
